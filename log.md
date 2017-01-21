@@ -27,5 +27,19 @@ myVar/=5 -> myVar = myVar / 5
 **Link to work:** [FreeCodeCamp](https://www.freecodecamp.com/badarshahzad)
 CodeCamp.
 
+### Day 2: Jan21, 2017
+## Multi Threadded Browser
+
+**Today's Progress**: 
+1. Today I made a drawer when I clicked on Hamburder
+2. I placed few icons menu in gridpane and put into bordpane left and give a look and feel like 
+window 8 slider.
+3. Today I accomplish to get lynda certificate. In #javafx 
+
+**Thoughts:** The biggest achivment today I got certificate from lynda. I made slider pane :+1:
+
+**Link to work:** [Lynda](https://www.lynda.com/Java-tutorials/Create-Interfaces-FXML-JavaFX/534632-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate)
+
+
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)

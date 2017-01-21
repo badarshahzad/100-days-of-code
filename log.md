@@ -38,8 +38,9 @@ window 8 slider.
 
 **Thoughts:** The biggest achivment today I got certificate from lynda. I made slider pane :+1:
 
-**Link to work:** [Lynda](https://www.lynda.com/Java-tutorials/Create-Interfaces-FXML-JavaFX/534632-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate)
-
+**Link to work:** [Lynda](https://www.lynda.com/Java-tutorials/
+Create-Interfaces-FXML-JavaFX/534632-2.html?utm_source=linkedin&utm_medium=sharing&utm_campaign=certificate)
+![Lynda Certificate](/img/lynda.png)
 
 1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
 2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)

@@ -48,5 +48,11 @@ Create-Interfaces-FXML-JavaFX/534632-2.html?utm_source=linkedin&utm_medium=shari
 
 >>>>>>> a1c90b8e79f84241732028e4333f92c082bf5339
 
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+### Day 3: Jan 22, 2017
+## Multi Threadded Browser
+
+**Today's Progress**: 
+1. Today I made new Tab pane action listener when you clicke it will add new tab in tabpane 
+
+**Thoughts:** Today, to make multi tab pane i sbig accomplisment
+
